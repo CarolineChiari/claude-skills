@@ -1,0 +1,8 @@
+{
+  "name": "edit-markup",
+  "description": "Produce teacher-style markup and clean rewrites of user-authored text such as Quora answers, Substack drafts, essays, and emails. Output is a ruled-paper HTML artifact with two panels: a marked-up version (red strikethroughs for cuts, green highlights for inserts, numbered carets linking to handwriting-style margin notes explaining the reasoning) and a clean final version with a copy button.",
+  "version": "2.0.0",
+  "author": {
+    "name": "CarolineChiari"
+  }
+}

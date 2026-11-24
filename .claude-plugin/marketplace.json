@@ -1,0 +1,17 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "CarolineChiari"
+  },
+  "metadata": {
+    "description": "A collection of Claude skills, packaged as plugins."
+  },
+  "plugins": [
+    {
+      "name": "edit-markup",
+      "source": "./plugins/edit-markup",
+      "description": "Teacher-style markup and clean rewrites of your own writing, as a ruled-paper HTML page with margin notes and a copy-ready clean version.",
+      "version": "2.0.0"
+    }
+  ]
+}
